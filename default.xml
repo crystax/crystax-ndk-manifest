@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="crystax"
+           fetch=".." />
+  <default revision="crystax-r7"
+           remote="crystax"
+           sync-j="4" />
+
+  <project name="platform/development" />
+  <project name="platform/ndk" />
+  <project name="toolchain/binutils" />
+  <project name="toolchain/build" />
+  <project name="toolchain/cloog" />
+  <project name="toolchain/expat" />
+  <project name="toolchain/gcc" />
+  <project name="toolchain/gdb" />
+  <project name="toolchain/gmp" />
+  <project name="toolchain/mpc" />
+  <project name="toolchain/mpfr" />
+  <project name="toolchain/ppl" />
+
+</manifest>
