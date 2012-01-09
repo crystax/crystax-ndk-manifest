@@ -9,7 +9,7 @@
 
   <project name="platform/development" />
   <project name="platform/ndk" />
-  <project name="platform/prebuilt" />
+  <project name="platform/prebuilt" revision="crystax" />
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
   <project name="toolchain/cloog" />
