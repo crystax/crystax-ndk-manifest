@@ -3,7 +3,7 @@
 
   <remote  name="crystax"
            fetch=".." />
-  <default revision="crystax-r7"
+  <default revision="crystax-r8"
            remote="crystax"
            sync-j="4" />
 
