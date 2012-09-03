@@ -13,13 +13,13 @@
   <project name="platform/ndk" />
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
-  <project name="toolchain/cloog" />
-  <project name="toolchain/expat" />
+  <project name="toolchain/cloog" remote="crystax" />
+  <project name="toolchain/expat" remote="crystax" />
   <project name="toolchain/gcc" />
   <project name="toolchain/gdb" />
   <project name="toolchain/gmp" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
-  <project name="toolchain/ppl" />
+  <project name="toolchain/ppl" remote="crystax" />
 
 </manifest>
