@@ -2,6 +2,8 @@
 <manifest>
 
   <remote  name="origin"
+           fetch="https://android.googlesource.com/" />
+  <remote  name="crystax"
            fetch=".." />
   <default revision="master"
            remote="origin"
