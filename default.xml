@@ -14,7 +14,6 @@
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
   <project name="toolchain/clang" />
-  <project name="toolchain/cloog" remote="crystax" />
   <project name="toolchain/expat" />
   <project name="toolchain/gcc" />
   <project name="toolchain/gdb" />
@@ -22,6 +21,5 @@
   <project name="toolchain/llvm" />
   <project name="toolchain/mpc" />
   <project name="toolchain/mpfr" />
-  <project name="toolchain/ppl" remote="crystax" />
 
 </manifest>
