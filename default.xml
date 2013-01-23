@@ -6,7 +6,7 @@
   <remote  name="crystax"
            fetch=".." />
   <default revision="master"
-           remote="origin"
+           remote="crystax"
            sync-j="4" />
 
   <project name="platform/development" />
