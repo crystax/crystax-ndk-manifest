@@ -11,6 +11,12 @@
 
   <project name="platform/development" />
   <project name="platform/ndk" />
+  <project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
+  <project name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
+  <project name="platform/prebuilts/gcc/linux-x86/host/i686-w64-mingw32" />
+  <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
+  <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32" />
+  <project name="platform/prebuilts/tools" />
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
   <project name="toolchain/clang/3.1" path="toolchain/clang/clang-3.1" />
