@@ -30,6 +30,6 @@
   <project name="toolchain-llvm-3-2" path="toolchain/llvm/llvm-3.2" />
   <project name="toolchain-mpc" path="toolchain/mpc" />
   <project name="toolchain-mpfr" path="toolchain/mpfr" />
-  <project name="toolchain/ppl" path="toolchain/ppl" />
+  <project name="toolchain-ppl" path="toolchain/ppl" />
 
 </manifest>
