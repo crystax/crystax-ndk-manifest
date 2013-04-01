@@ -14,6 +14,8 @@
   <project name="platform-prebuilts-gcc-darwin-x86-host-i686-apple-darwin-4-2-1" path="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
   <project name="platform-prebuilts-gcc-linux-x86-host-i686-linux-glibc2-7-4-6" path="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
   <project name="platform-prebuilts-gcc-linux-x86-host-i686-w64-mingw32" path="platform/prebuilts/gcc/linux-x86/host/i686-w64-mingw32" />
+  <project name="platform-prebuilts-gcc-linux-x86-host-x86_64-apple-darwin10" path="platform/prebuilts/gcc/linux-x86/host/x86_64-apple-darwin10" />
+  <project name="platform-prebuilts-gcc-linux-x86-host-x86_64-apple-darwin9" path="platform/prebuilts/gcc/linux-x86/host/x86_64-apple-darwin9" />
   <project name="platform-prebuilts-gcc-linux-x86-host-x86_64-linux-glibc2-7-4-6" path="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
   <project name="platform-prebuilts-gcc-linux-x86-host-x86_64-w64-mingw32" path="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32" />
   <project name="platform-prebuilts-tools" path="platform/prebuilts/tools" />
