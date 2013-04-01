@@ -31,6 +31,7 @@
   <project name="toolchain-llvm-cloog" path="toolchain/llvm/cloog" />
   <project name="toolchain-llvm-isl" path="toolchain/llvm/isl" />
   <project name="toolchain-llvm-polly-3-2" path="toolchain/llvm/polly/polly-3.2" />
+  <project name="toolchain-mclinker" path="toolchain/mclinker" />
   <project name="toolchain-mpc" path="toolchain/mpc" />
   <project name="toolchain-mpfr" path="toolchain/mpfr" />
   <project name="toolchain-ppl" path="toolchain/ppl" />
