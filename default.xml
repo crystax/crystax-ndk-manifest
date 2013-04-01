@@ -34,6 +34,7 @@
   <project name="toolchain-mclinker" path="toolchain/mclinker" />
   <project name="toolchain-mpc" path="toolchain/mpc" />
   <project name="toolchain-mpfr" path="toolchain/mpfr" />
+  <project name="toolchain-perl" path="toolchain/perl" />
   <project name="toolchain-ppl" path="toolchain/ppl" />
 
 </manifest>
