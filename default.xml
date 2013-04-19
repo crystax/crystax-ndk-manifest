@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="crystax"
-           fetch=".." />
+           fetch="." />
   <default revision="crystax-r8"
            remote="crystax"
            sync-j="4" />
